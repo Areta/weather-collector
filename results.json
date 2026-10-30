@@ -1,0 +1,9 @@
+[
+  {
+    "city": "Vinnitsa",
+    "temperature": 7.8,
+    "wind_speed": 9.4,
+    "time": "2026-10-30T19:00",
+    "fetched_at": "2026-10-30T19:05:23.414352+00:00"
+  }
+]
